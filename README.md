@@ -6,4 +6,4 @@ This data was from a private Kaggle competition held by BloomTech for its DS36 D
 
 DS36_Unit_2_Kaggle_Project_Notebook.ipynb is the result of analysis done during the Kaggle competition. However, the notebook was constructed 'on-the-fly' and is therefore poorly structured for reader comprehension.
 
-Tanzania_Water_Pump_Analysis.ipynb aims to correct this by providing a clear, concise, and well-structured narrative of how the work was done. **This notebook is currently in progress and as of now contains only the first round of exploratory data analysis and feature engineering.**
+Tanzania_Water_Pump_Analysis.ipynb aims to correct this by providing a clear, concise, and well-structured narrative of how the work was done. **This notebook is currently in progress and as of now contains up to the first round of hyperparameter tuning.**
