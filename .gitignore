@@ -1,4 +1,5 @@
 venv/
 .vscode/
 *.csv
-pump_classifier_model.joblib
+*.joblib
+__pycache__
